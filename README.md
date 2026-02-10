@@ -49,7 +49,7 @@ Open your terminal or command prompt and run:
 
 bash
 
-git clone https://github.com/YOUR_USERNAME/Soybean-Yield-Prediction-3D-CNN.git
+git clone https://github.com/marmiii/Soybean-Yield-Prediction-3D-CNN.git
 
 cd Soybean-Yield-Prediction-3D-CNN
 
