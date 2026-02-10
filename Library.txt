@@ -1,0 +1,13 @@
+PyTorch
+Neural Network module
+Functional module
+Optimization module
+Data utilities
+Torchvision Transforms
+NumPy
+OpenCV
+Pillow
+Operating System module
+Glob
+Random
+Ordered Dictionary
